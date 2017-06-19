@@ -49,8 +49,53 @@
     background-color: white;
 }
 .portiune2 p{
-    border: 2px solid grey;
-    background-color: navajowhite;
+    border: 2px solid black;
+    background-color: darkgrey;
     font-family: 'Indie Flower', cursive;
-    color: red;
+    color: white;
+}
+.PrimaImagine{
+    width: 100px;
+}
+input{
+    border-radius: 8px;
+}
+.update{
+    border: 3px solid black;
+    width: 150px;
+    text-align: center;
+    box-shadow: 2px;
+    border-radius: 100px;
+}
+.checkout{
+    border: 3px solid black;
+    width: 150px;
+    text-align: center;
+    border-radius: 100px;
+}
+h2{
+    font-weight: bold;
+    text-align: right;
+}
+.butonParlit{
+    border-radius: 100px;
+}
+.greySpace{
+    background-color: navajowhite; 
+}
+ul{
+    list-style: none;
+}
+li{
+    
+}
+.textShadows{
+    text-shadow: 1px 1px;
+}
+.product{
+    width: 250px; 
+    height: 80px;
+}
+.copyright{
+    text-align: center;
 }
